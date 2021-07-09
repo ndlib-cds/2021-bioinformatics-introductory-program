@@ -418,15 +418,15 @@ to obtain the software and data you will need to follow the lesson.
 <hr>
 <h2>BIP Organizing Team</h2>
 <ul>
-  <li>name</li>
-  <li>name</li>
-  <li>name</li>
-  <li>name</li>
-  <li>name</li>
-  <li>name</li>
-  <li>name</li>
-  <li>name</li>
-  <li>name</li>
-  <li>name</li>
-  <li>name</li>
+  <li>Amanda Charbonneau</li>
+  <li>Chissa Rivaldi</li>
+  <li>David Molik</li>
+  <li>Holly Goodson</li>
+  <li>Mauna Dasari</li>
+  <li>Michael Pfrender</li>
+  <li>Joe Sarro</li>
+  <li>Julie Vecchio</li>
+  <li>Natalie Meyers</li>
+  <li>Scott Hampton</li>
+  <li>Scott Weingart</li>
 </ul>
