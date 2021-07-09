@@ -181,7 +181,7 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
   <ul>
-  <li><b>Participants must <a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link" target="_new">register in advance</a></b> (opens in a new tab) so that we can ensure we have an appropriate number of teaching assistants, etc., available, as well as to ensure effective communication about logistics (Zoom information, etc.).</li><br>
+  <li><b>Participants must <a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link" target="_new">register in advance</a></b> <i>(opens in a new tab)</i> so that we can ensure we have an appropriate number of teaching assistants, etc., available, as well as to ensure effective communication about logistics (Zoom information, etc.).</li><br>
   <li>Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</li><br>
   {% endif %}
@@ -310,7 +310,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use the collaborative documents linked in this <a href="{{ page.collaborative_notes }}" target="_blank">location</a> (opens in a new tab) for chatting, taking notes, and sharing URLs and bits of code.
+We will use the collaborative documents linked in this <a href="{{ page.collaborative_notes }}" target="_blank">location</a> <i>(opens in a new tab)</i> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 [<a href="#top">back to top</a>]
 <hr/>
@@ -460,6 +460,6 @@ to obtain the software and data you will need to follow the lesson.
   <li><b>Scott Weingart</b>, <a href="https://cds.library.nd.edu/" target="_blank">Navari Family Center for Digital Scholarship</a></li>
 </ul>
 <br>
-<a href="https://libguides.library.nd.edu/carpentries" target="_blank">University of Notre Dame Hesburgh Libraries Carpentries Resources</a> (opens in a new tab)<br>
+<a href="https://libguides.library.nd.edu/carpentries" target="_blank">University of Notre Dame Hesburgh Libraries Carpentries Resources</a> <i>(opens in a new tab)</i><br>
 Contact us at <a href="mailto:cds@nd.edu">cds@nd.edu</a>.<br><br>
 [<a href="#top">back to top</a>]
