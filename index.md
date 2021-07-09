@@ -175,11 +175,11 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
   <ul>
-  <li>Participants must <a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link">register in advance</a> so that we can ensure we have an appropriate number of teaching assistants, etc., are available, as well as to ensure effective communication about logistics (Zoom information, etc.).</li>
+  <li><b>Participants must <a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link">register in advance</a></b> so that we can ensure we have an appropriate number of teaching assistants, etc., are available, as well as to ensure effective communication about logistics (Zoom information, etc.).</li>
   <li>Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>). If you would like assistance installing any software or downloading any files, please attend one of the Setup & Installation sessions listed in the schedule.</li>
+  They should have a few specific software packages installed (listed <a href="#setup">below</a>). <i>If you would like assistance installing any software or downloading any files, please attend one of the Setup & Installation sessions listed in the schedule.</i></li>
   </ul>
 
 </p>
