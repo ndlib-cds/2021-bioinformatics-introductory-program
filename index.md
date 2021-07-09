@@ -450,7 +450,7 @@ to obtain the software and data you will need to follow the lesson.
   <li><b>Amanda Charbonneau</b>, <a href="https://www.ucdavis.edu/" target="_blank">UC Davis</a></li>
   <li><b>Chissa Rivaldi</b>, Department of Biological Sciences</li>
   <li><b>David Molik</b>, <a href="https://www.usda.gov/" target="_blank">United States Department of Agriculture</a></li>
-  <li><b>Holly Goodson</b>, Department of Chemistry and Biochemistry</li>
+  <li><b>Holly Goodson</b>, <a href="https://chemistry.nd.edu/" target="_blank">Department of Chemistry and Biochemistry</a></li>
   <li><b>Mauna Dasari</b>, Department of Biological Sciences</li>
   <li><b>Michael Pfrender</b>, Department of Biological Sciences and <a href="https://genomics.nd.edu/" target="_blank">Genomics & Bioinformatics Core Facility</a></li>
   <li><b>Joseph Sarro</b>, <a href="https://genomics.nd.edu/" target="_blank">Genomics & Bioinformatics Core Facility</a></li>
