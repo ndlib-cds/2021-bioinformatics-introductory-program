@@ -146,8 +146,7 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <h3>Where</h3> This training will take place online.
-  The instructors will provide you with the information you will need to connect to this meeting.
+  <h3>Where</h3> This training will take place online--you will receive a confirmation/welcome email from the organizers containing all of the logistical information necessary to participate.
 </p>
 {% endif %}
 
@@ -208,7 +207,7 @@ special instructions.
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
   notify the instructors in advance of the workshop if you require any accommodations or if there is
-  anything we can do to make this workshop more accessible to you.
+  anything we can do to make this workshop more accessible to you. <b>Please indicate this when registering, or by emailing <a href="mailto:cds@nd.edu">cds@nd.edu.</a></b> 
 </p>
 {% endif %}
 
