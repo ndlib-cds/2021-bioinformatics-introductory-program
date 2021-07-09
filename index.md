@@ -79,7 +79,9 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-
+<hr>
+<a name="top"></a><a href=“#general”>General Information</a> // <a href=“#code-of-conduct”>Code of Conduct</a> // <a href=“#collaborative_notes”>Collaborative Notes</a> // <a href=“#surveys”>Surveys</a> // <a href=“#schedule>Schedule // <a href=“#setup>Setup // <a href=“#team>Organizing Team</a>
+<hr>
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -434,7 +436,7 @@ Please check the "Setup" page of
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
 <hr>
-<h2>2021 Bioinformatics Introductory Program Organizing Team</h2>
+<h2 id="team">2021 Bioinformatics Introductory Program Organizing Team</h2>
 <ul>
   <li>Amanda Charbonneau, UC Davis</li>
   <li>Chissa Rivaldi, Department of Biological Sciences</li>
