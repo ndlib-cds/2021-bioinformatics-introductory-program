@@ -447,17 +447,17 @@ to obtain the software and data you will need to follow the lesson.
 <hr>
 <h2 id="team">2021 Bioinformatics Introductory Program Organizing Team</h2>
 <ul>
-  <li>Amanda Charbonneau, UC Davis</li>
-  <li>Chissa Rivaldi, Department of Biological Sciences</li>
-  <li>David Molik, United States Department of Agriculture</li>
-  <li>Holly Goodson, Department of Chemistry and Biochemistry</li>
-  <li>Mauna Dasari, Department of Biological Sciences</li>
-  <li>Michael Pfrender, Department of Biological Sciences</li>
-  <li>Joseph Sarro, Genomics & Bioinformatics Core Facility</li>
-  <li>Julie Vecchio, Navari Family Center for Digital Scholarship</li>
-  <li>Natalie Meyers, Lucy Institute for Data & Society</li>
-  <li>Scott Hampton, Center for Research Computing</li>
-  <li>Scott Weingart, Navari Family Center for Digital Scholarship</li>
+  <li><b>Amanda Charbonneau</b>, UC Davis</li>
+  <li><b>Chissa Rivaldi</b>, Department of Biological Sciences</li>
+  <li><b>David Molik</b>, United States Department of Agriculture</li>
+  <li><b>Holly Goodson</b>, Department of Chemistry and Biochemistry</li>
+  <li><b>Mauna Dasari</b>, Department of Biological Sciences</li>
+  <li><b>Michael Pfrender</b>, Department of Biological Sciences</li>
+  <li><b>Joseph Sarro</b>, Genomics & Bioinformatics Core Facility</li>
+  <li><b>Julie Vecchio</b>, Navari Family Center for Digital Scholarship</li>
+  <li><b>Natalie Meyers</b>, Lucy Institute for Data & Society</li>
+  <li><b>Scott Hampton</b>, Center for Research Computing</li>
+  <li><b>Scott Weingart</b>, Navari Family Center for Digital Scholarship</li>
 </ul>
 <br>
 <a href="https://libguides.library.nd.edu/carpentries" target="_blank">University of Notre Dame Hesburgh Libraries Carpentries Resources</a> (opens in a new tab)<br>
