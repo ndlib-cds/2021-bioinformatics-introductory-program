@@ -80,7 +80,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 <hr>
-[General Information](#general) // <a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link" "target=_new">Registration</a> // [Code of Conduct](#code-of-conduct) // [Collaborative Notes](#collaborative_notes) // [Surveys](#surveys) // [Schedule](#schedule) // [Setup](#setup) // [Organizing Team](#team)
+[General Information](#general) // [<a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link" "target=_new">Registration</a>] // [Code of Conduct](#code-of-conduct) // [Collaborative Notes](#collaborative_notes) // [Surveys](#surveys) // [Schedule](#schedule) // [Setup](#setup) // [Organizing Team](#team)
 <hr>
 <h2 id="general">General Information</h2>
 
