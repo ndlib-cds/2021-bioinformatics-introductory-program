@@ -448,11 +448,11 @@ to obtain the software and data you will need to follow the lesson.
 <h2 id="team">2021 Bioinformatics Introductory Program Organizing Team</h2>
 <ul>
   <li><b>Amanda Charbonneau</b>, <a href="https://www.ucdavis.edu/" target="_blank">UC Davis</a></li>
-  <li><b>Chissa Rivaldi</b>, Department of Biological Sciences</li>
+  <li><b>Chissa Rivaldi</b>, <a href="https://biology.nd.edu/" target="_blank">Department of Biological Sciences</a></li>
   <li><b>David Molik</b>, <a href="https://www.usda.gov/" target="_blank">United States Department of Agriculture</a></li>
   <li><b>Holly Goodson</b>, <a href="https://chemistry.nd.edu/" target="_blank">Department of Chemistry and Biochemistry</a></li>
-  <li><b>Mauna Dasari</b>, Department of Biological Sciences</li>
-  <li><b>Michael Pfrender</b>, Department of Biological Sciences and <a href="https://genomics.nd.edu/" target="_blank">Genomics & Bioinformatics Core Facility</a></li>
+  <li><b>Mauna Dasari</b>, <a href="https://biology.nd.edu/" target="_blank">Department of Biological Sciences</a></li>
+  <li><b>Michael Pfrender</b>, <a href="https://biology.nd.edu/" target="_blank">Department of Biological Sciences</a> and <a href="https://genomics.nd.edu/" target="_blank">Genomics & Bioinformatics Core Facility</a></li>
   <li><b>Joseph Sarro</b>, <a href="https://genomics.nd.edu/" target="_blank">Genomics & Bioinformatics Core Facility</a></li>
   <li><b>Julie Vecchio</b>, <a href="https://cds.library.nd.edu/" target="_blank">Navari Family Center for Digital Scholarship</a></li>
   <li><b>Natalie Meyers</b>, <a href="https://lucyinstitute.nd.edu/" target="_blank">Lucy Institute for Data & Society</a></li>
