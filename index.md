@@ -129,7 +129,7 @@ address.
 {% endif %}
 {% if page.latitude and page.longitude and online == "false" %}
 <p id="where">
-  <strong>Where:</strong>
+  <h3>Where:</h3><br>
   {{page.address}}.
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
@@ -138,14 +138,14 @@ address.
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
-  <strong>Where:</strong>
+  <h3>Where:</h3><br>
   online at <a href="{{page.address}}">{{page.address}}</a>.
   If you need a password or other information to access the training,
   the instructor will pass it on to you before the workshop.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online.
+  <h3>Where:</h3><br> This training will take place online.
   The instructors will provide you with the information you will need to connect to this meeting.
 </p>
 {% endif %}
@@ -157,7 +157,7 @@ This block displays the date and links to Google Calendar.
 {% endcomment %}
 {% if page.humandate %}
 <p id="when">
-  <strong>When:</strong>
+  <h3>When:</h3><br>
   {{page.humandate}}.
   {% include workshop_calendar.html %}
 </p>
@@ -169,7 +169,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong>
+  <h3>Requirements:</h3><br><br>
   {% if online == "false" %}
     Participants must bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
@@ -187,7 +187,7 @@ Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Accessibility:</strong>
+  <h3>Accessibility:</h3><br>
 {% if online == "false" %}
   We are committed to making this workshop
   accessible to everybody. The workshop organizers have checked that:
@@ -217,7 +217,7 @@ CONTACT EMAIL ADDRESS
 Display the contact email address set in the configuration file.
 {% endcomment %}
 <p id="contact">
-  <strong>Contact:</strong>
+  <h3>Contact:</h3><br>
   Please email
   {% if page.email %}
   {% for email in page.email %}
@@ -237,7 +237,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p id="roles">
-  <strong>Roles:</strong>
+  <h3>Roles:</h3><br>
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
@@ -311,8 +311,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 {% if site.carpentry == "pilot" %}
-<p><a href="{{ site.pilot_pre_survey }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.pilot_post_survey }}">Post-workshop Survey</a></p>
+<ul><li><p><a href="{{ site.pilot_pre_survey }}">Pre-workshop Survey</a></p></li>
+<li><p><a href="{{ site.pilot_post_survey }}">Post-workshop Survey</a></p></li></ul>
 {% elsif site.pilot_pre_survey or site.pilot_post_survey %}
 <div class="alert alert-danger">
 WARNING: you have defined custom pre- and/or post-survey links for
