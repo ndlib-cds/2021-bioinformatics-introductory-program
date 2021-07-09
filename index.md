@@ -310,7 +310,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use the collaborative documents linked in this <a href="{{ page.collaborative_notes }}">location</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use the collaborative documents linked in this <a href="{{ page.collaborative_notes }}" target="_blank">location</a> (opens in a new tab) for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 [<a href="#top">back to top</a>]
 <hr/>
