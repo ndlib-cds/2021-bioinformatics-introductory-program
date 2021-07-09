@@ -457,7 +457,7 @@ to obtain the software and data you will need to follow the lesson.
   <li><b>Julie Vecchio</b>, <a href="https://cds.library.nd.edu/" target="_blank">Navari Family Center for Digital Scholarship</a></li>
   <li><b>Natalie Meyers</b>, Lucy Institute for Data & Society</li>
   <li><b>Scott Hampton</b>, Center for Research Computing</li>
-  <li><b>Scott Weingart</b>, Navari Family Center for Digital Scholarship</li>
+  <li><b>Scott Weingart</b>, <a href="https://cds.library.nd.edu/" target="_blank">Navari Family Center for Digital Scholarship</a></li>
 </ul>
 <br>
 <a href="https://libguides.library.nd.edu/carpentries" target="_blank">University of Notre Dame Hesburgh Libraries Carpentries Resources</a> (opens in a new tab)<br>
