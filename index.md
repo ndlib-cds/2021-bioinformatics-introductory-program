@@ -175,7 +175,7 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
   <ul>
-  <li><b>Participants must <a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link" target="_new">register in advance</a></b> so that we can ensure we have an appropriate number of teaching assistants, etc., are available, as well as to ensure effective communication about logistics (Zoom information, etc.).</li><br>
+  <li><b>Participants must <a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link" target="_new">register in advance</a></b> (opens in a new window) so that we can ensure we have an appropriate number of teaching assistants, etc., are available, as well as to ensure effective communication about logistics (Zoom information, etc.).</li><br>
   <li>Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</li><br>
   {% endif %}
