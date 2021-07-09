@@ -211,7 +211,7 @@ special instructions.
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
   notify the instructors in advance of the workshop if you require any accommodations or if there is
-  anything we can do to make this workshop more accessible to you. <b>Please indicate this when registering, or by emailing <a href="mailto:cds@nd.edu">cds@nd.edu.</a></b>
+  anything we can do to make this workshop more accessible to you. <i>Please indicate this when registering, or by emailing <a href="mailto:cds@nd.edu">cds@nd.edu.</a></i>
 </p>
 {% endif %}
 
