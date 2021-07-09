@@ -80,9 +80,6 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-<a name="top"></a><a href=“#general”>General Information</a> // <a href=“#code”>Code of Conduct</a> // <a href=“#notes”>Collaborative Notes</a> // <a href=“#surveys”>Surveys</a> // <a href=“#schedule>Schedule // <a href=“#setup>Setup // <a href=“#team>Organizing Team</a>
-
-<hr>
 <h2 id="general">General Information</h2>
 
 {% comment %}
