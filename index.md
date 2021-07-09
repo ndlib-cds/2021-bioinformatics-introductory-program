@@ -454,7 +454,7 @@ to obtain the software and data you will need to follow the lesson.
   <li><b>Mauna Dasari</b>, Department of Biological Sciences</li>
   <li><b>Michael Pfrender</b>, Department of Biological Sciences</li>
   <li><b>Joseph Sarro</b>, Genomics & Bioinformatics Core Facility</li>
-  <li><b>Julie Vecchio</b>, Navari Family Center for Digital Scholarship</li>
+  <li><b>Julie Vecchio</b>, <a href="https://cds.library.nd.edu/" target="_blank">Navari Family Center for Digital Scholarship</a></li>
   <li><b>Natalie Meyers</b>, Lucy Institute for Data & Society</li>
   <li><b>Scott Hampton</b>, Center for Research Computing</li>
   <li><b>Scott Weingart</b>, Navari Family Center for Digital Scholarship</li>
