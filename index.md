@@ -416,7 +416,7 @@ Please check the "Setup" page of
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
 <hr>
-<h2>BIP Organizing Team</h2>
+<h2>2021 BIP Organizing Team</h2>
 <ul>
   <li>Amanda Charbonneau, UC Davis</li>
   <li>Chissa Rivaldi, Department of Biological Sciences</li>
