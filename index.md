@@ -455,5 +455,5 @@ to obtain the software and data you will need to follow the lesson.
 </ul>
 <hr>
 <a href="https://libguides.library.nd.edu/carpentries" target="_blank">University of Notre Dame Hesburgh Libraries Carpentries Resources</a> (opens in a new tab)<br>
-Contact us at <a href="mailto:cds@nd.edu">cds@nd.edu</a>.<br>
+Contact us at <a href="mailto:cds@nd.edu">cds@nd.edu</a>.<br><br>
 [<a href="#top">back to top</a>]
