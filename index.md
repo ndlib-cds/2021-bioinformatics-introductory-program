@@ -146,7 +146,7 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <h3>Where</h3> This training will take place online--you will receive a confirmation/welcome email from the organizers containing all of the logistical information necessary to participate.
+  <h3>Where</h3> This training will take place online (Zoom + optional Slack workspace)--you will receive a confirmation/welcome email from the organizers containing all of the logistical information necessary to participate.
 </p>
 {% endif %}
 
