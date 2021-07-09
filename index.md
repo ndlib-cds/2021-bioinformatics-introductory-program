@@ -145,7 +145,7 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <h3>Where:</h3><br> This training will take place online.
+  <h3>Where</h3> This training will take place online.
   The instructors will provide you with the information you will need to connect to this meeting.
 </p>
 {% endif %}
@@ -157,7 +157,7 @@ This block displays the date and links to Google Calendar.
 {% endcomment %}
 {% if page.humandate %}
 <p id="when">
-  <h3>When:</h3><br>
+  <h3>When</h3>
   {{page.humandate}}.
   {% include workshop_calendar.html %}
 </p>
@@ -169,7 +169,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <h3>Requirements:</h3><br><br>
+  <h3>Requirements</h3>
   {% if online == "false" %}
     Participants must bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
@@ -187,7 +187,7 @@ Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
 <p id="accessibility">
-  <h3>Accessibility:</h3><br>
+  <h3>Accessibility</h3>
 {% if online == "false" %}
   We are committed to making this workshop
   accessible to everybody. The workshop organizers have checked that:
@@ -217,7 +217,7 @@ CONTACT EMAIL ADDRESS
 Display the contact email address set in the configuration file.
 {% endcomment %}
 <p id="contact">
-  <h3>Contact:</h3><br>
+  <h3>Contact</h3>
   Please email
   {% if page.email %}
   {% for email in page.email %}
@@ -237,7 +237,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p id="roles">
-  <h3>Roles:</h3><br>
+  <h3>Roles</h3>
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
