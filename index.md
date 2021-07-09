@@ -86,7 +86,7 @@ displayed if the 'eventbrite' field in the header is not set.
   </a>
 </p>
 <hr>
-<p class="text-center">[General Information](#general) // [Code of Conduct](#code-of-conduct) // [Collaborative Notes](#collaborative_notes) // [Surveys](#surveys) // [Schedule](#schedule) // [Setup](#setup) // [Organizing Team](#team)</p>
+[General Information](#general) // [Code of Conduct](#code-of-conduct) // [Collaborative Notes](#collaborative_notes) // [Surveys](#surveys) // [Schedule](#schedule) // [Setup](#setup) // [Organizing Team](#team)
 <hr>
 <h2 id="general">General Information</h2>
 
