@@ -324,8 +324,8 @@ change the value of `carpentry` to `pilot`.
 </div>
 {% else %}
 <ul>
-<li><p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></li></p>
-<li><p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></li></p>
+<li><p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p></li>
+<li><p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p></li>
 </ul>
 {% endif %}
 
