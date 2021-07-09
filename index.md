@@ -418,15 +418,15 @@ to obtain the software and data you will need to follow the lesson.
 <hr>
 <h2>BIP Organizing Team</h2>
 <ul>
-  <li>Amanda Charbonneau</li>
-  <li>Chissa Rivaldi</li>
-  <li>David Molik</li>
-  <li>Holly Goodson</li>
-  <li>Mauna Dasari</li>
-  <li>Michael Pfrender</li>
-  <li>Joe Sarro</li>
-  <li>Julie Vecchio</li>
-  <li>Natalie Meyers</li>
-  <li>Scott Hampton</li>
-  <li>Scott Weingart</li>
+  <li>Amanda Charbonneau, UC Davis</li>
+  <li>Chissa Rivaldi, Department of Biological Sciences</li>
+  <li>David Molik, United States Department of Agriculture</li>
+  <li>Holly Goodson, Department of Chemistry and Biochemistry</li>
+  <li>Mauna Dasari, Department of Biological Sciences</li>
+  <li>Michael Pfrender, Department of Biological Sciences</li>
+  <li>Joe Sarro, Genomics & Bioinformatics Core Facility</li>
+  <li>Julie Vecchio, Navari Family Center for Digital Scholarship</li>
+  <li>Natalie Meyers, Lucy Institute for Data & Society</li>
+  <li>Scott Hampton, Center for Research Computing</li>
+  <li>Scott Weingart, Navari Family Center for Digital Scholarship</li>
 </ul>
