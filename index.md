@@ -185,7 +185,7 @@ Modify the block below if there are any special requirements.
   <li>Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</li><br>
   {% endif %}
-  <li>Participants should have a few specific software packages installed (listed <a href="#setup">below</a>). <i>If you would like assistance installing any software or downloading any files, please attend one of the Setup & Installation sessions listed in the schedule.</i></li><br>
+  <li>Participants should have a few specific software packages installed (listed <a href="#setup">below</a>). <i>If you would like assistance installing any software or downloading any files, please attend one of the Setup & Installation sessions listed in the schedule.</i></li>
   </ul>
 
 </p>
