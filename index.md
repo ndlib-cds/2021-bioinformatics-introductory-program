@@ -80,7 +80,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 <hr>
-[General Information](#general) //
+[General Information](#general) // [Code of Conduct](#code-of-conduct) // [Collaborative Notes](#collaborative_notes) // [Surveys](#surveys) // [Schedule](#schedule) // [Setup](#setup) // [Organizing Team](#team)
 <hr>
 <h2 id="general">General Information</h2>
 
@@ -207,7 +207,7 @@ special instructions.
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
   notify the instructors in advance of the workshop if you require any accommodations or if there is
-  anything we can do to make this workshop more accessible to you. <b>Please indicate this when registering, or by emailing <a href="mailto:cds@nd.edu">cds@nd.edu.</a></b> 
+  anything we can do to make this workshop more accessible to you. <b>Please indicate this when registering, or by emailing <a href="mailto:cds@nd.edu">cds@nd.edu.</a></b>
 </p>
 {% endif %}
 
