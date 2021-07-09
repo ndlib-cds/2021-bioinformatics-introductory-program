@@ -261,7 +261,7 @@ Edit the text to match who can attend the workshop. For instance:
     This workshop is open to ....
 </p>
 {% endcomment %}
-
+[<a href="#top">back to top</a>]
 <hr/>
 
 {% comment%}
@@ -278,6 +278,7 @@ Everyone who participates in Carpentries activities is required to conform to th
     <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
   </a>
 </p>
+[<a href="#top">back to top</a>]
 <hr/>
 
 
@@ -300,6 +301,7 @@ available at https://codimd.carpentries.org
 <p>
 We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
+[<a href="#top">back to top</a>]
 <hr/>
 {% endif %}
 
@@ -329,7 +331,7 @@ change the value of `carpentry` to `pilot`.
 <li><p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p></li>
 </ul>
 {% endif %}
-
+[<a href="#top">back to top</a>]
 <hr/>
 
 {% comment %}
