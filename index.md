@@ -424,7 +424,7 @@ to obtain the software and data you will need to follow the lesson.
   <li>Holly Goodson, Department of Chemistry and Biochemistry</li>
   <li>Mauna Dasari, Department of Biological Sciences</li>
   <li>Michael Pfrender, Department of Biological Sciences</li>
-  <li>Joe Sarro, Genomics & Bioinformatics Core Facility</li>
+  <li>Joseph Sarro, Genomics & Bioinformatics Core Facility</li>
   <li>Julie Vecchio, Navari Family Center for Digital Scholarship</li>
   <li>Natalie Meyers, Lucy Institute for Data & Society</li>
   <li>Scott Hampton, Center for Research Computing</li>
