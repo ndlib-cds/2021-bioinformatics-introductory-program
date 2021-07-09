@@ -415,3 +415,18 @@ Please check the "Setup" page of
 [the lesson site]({{ site.lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+<hr>
+<h2>BIP Organizing Team</h2>
+<ul>
+  <li>name</li>
+  <li>name</li>
+  <li>name</li>
+  <li>name</li>
+  <li>name</li>
+  <li>name</li>
+  <li>name</li>
+  <li>name</li>
+  <li>name</li>
+  <li>name</li>
+  <li>name</li>
+</ul>
