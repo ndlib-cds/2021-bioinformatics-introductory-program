@@ -447,4 +447,5 @@ to obtain the software and data you will need to follow the lesson.
   <li>Scott Hampton, Center for Research Computing</li>
   <li>Scott Weingart, Navari Family Center for Digital Scholarship</li>
 </ul>
-<a href="https://libguides.library.nd.edu/carpentries" target="_blank">University of Notre Dame Hesburgh Libraries Carpentries Resources</a> (opens in a new tab)
+<a href="https://libguides.library.nd.edu/carpentries" target="_blank">University of Notre Dame Hesburgh Libraries Carpentries Resources</a> (opens in a new tab)<br>
+Contact us at <a href="mailto:cds@nd.edu">cds@nd.edu</a>.
