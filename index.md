@@ -323,8 +323,10 @@ in `_config.yml` or, if this workshop is a lesson pilot,
 change the value of `carpentry` to `pilot`.
 </div>
 {% else %}
-<ul><li><p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></li></p>
-<ul><li><p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></li></p></ul>
+<ul>
+<li><p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></li></p>
+<li><p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></li></p>
+</ul>
 {% endif %}
 
 <hr/>
