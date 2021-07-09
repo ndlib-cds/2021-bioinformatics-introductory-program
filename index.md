@@ -449,7 +449,7 @@ to obtain the software and data you will need to follow the lesson.
 <ul>
   <li><b>Amanda Charbonneau</b>, UC Davis</li>
   <li><b>Chissa Rivaldi</b>, Department of Biological Sciences</li>
-  <li><b>David Molik</b>, United States Department of Agriculture</li>
+  <li><b>David Molik</b>, <a href="https://www.usda.gov/" target="_blank">United States Department of Agriculture</a></li>
   <li><b>Holly Goodson</b>, Department of Chemistry and Biochemistry</li>
   <li><b>Mauna Dasari</b>, Department of Biological Sciences</li>
   <li><b>Michael Pfrender</b>, Department of Biological Sciences and <a href="https://genomics.nd.edu/" target="_blank">Genomics & Bioinformatics Core Facility</a></li>
