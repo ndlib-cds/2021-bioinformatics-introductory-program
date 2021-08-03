@@ -310,7 +310,8 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use collaborative documents for chatting, taking notes, and sharing URLs and bits of code. <b>Please check your registration confirmation email for this link.</b>
+We will use collaborative documents for chatting, taking notes, and sharing URLs and bits of code.
+<div class='alert alert-warning' role='alert'><p><i class='fa fa-exclamation-triangle fa-fw' aria-hidden='true'></i>NOTE: Please check your registration confirmation email for the collaborative document link.</p></div>
 </p>
 [<a href="#top">back to top</a>]
 <hr/>
