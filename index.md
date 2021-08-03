@@ -181,7 +181,7 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
   <ul>
-  <li><b>Participants must register in advance</b> so that we can ensure we have an appropriate number of teaching assistants, etc., available, as well as to ensure effective communication about logistics (Zoom information, etc.). <b>NOTE: REGISTRATION IS CLOSED.</b></li><br>
+  <li><b>Participants must register in advance</b> so that we can ensure we have an appropriate number of teaching assistants, etc., available, as well as to ensure effective communication about logistics (Zoom information, etc.). <div class='alert alert-warning' role='alert'><p><i class='fa fa-exclamation-triangle fa-fw' aria-hidden='true'></i><b>NOTE:</b> Registration is closed.</p></div></li><br>
   <li>Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</li><br>
   {% endif %}
@@ -311,7 +311,7 @@ available at https://codimd.carpentries.org
 
 <p>
 We will use collaborative documents for chatting, taking notes, and sharing URLs and bits of code.
-<div class='alert alert-warning' role='alert'><p><i class='fa fa-exclamation-triangle fa-fw' aria-hidden='true'></i>NOTE: Please check your registration confirmation email for the collaborative document link.</p></div>
+<div class='alert alert-warning' role='alert'><p><i class='fa fa-exclamation-triangle fa-fw' aria-hidden='true'></i><b>NOTE:</b> Please check your registration confirmation email for the collaborative document link.</p></div>
 </p>
 [<a href="#top">back to top</a>]
 <hr/>
