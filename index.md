@@ -181,7 +181,7 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
   <ul>
-  <li><b>Participants must <a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link" target="_new">register in advance</a></b> <i>(opens in a new tab)</i> so that we can ensure we have an appropriate number of teaching assistants, etc., available, as well as to ensure effective communication about logistics (Zoom information, etc.).</li><br>
+  <li><b>Participants must register in advance</b> so that we can ensure we have an appropriate number of teaching assistants, etc., available, as well as to ensure effective communication about logistics (Zoom information, etc.). <b>NOTE: REGISTRATION IS CLOSED.</b></li><br>
   <li>Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</li><br>
   {% endif %}
@@ -310,7 +310,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use the collaborative documents linked in this <a href="{{ page.collaborative_notes }}" target="_blank">location</a> <i>(opens in a new tab)</i> for chatting, taking notes, and sharing URLs and bits of code.
+We will use collaborative documents for chatting, taking notes, and sharing URLs and bits of code. <b>Please check your registration confirmation email for this link.</b>
 </p>
 [<a href="#top">back to top</a>]
 <hr/>
