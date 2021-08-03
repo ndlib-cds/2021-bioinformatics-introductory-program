@@ -82,7 +82,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <hr>
 <p class="text-center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link" target="_blank">
-    <button type="button" class="btn btn-info">Register Now</button>
+    <button type="button" class="btn btn-info">Registration Closed</button>
   </a>
 </p>
 <hr>
