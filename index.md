@@ -419,7 +419,7 @@ please preview your site before committing, and make sure to run
   <li><b>Library Resources & Research Support Tools:</b> N/A</li>
   <li><b>Metadata of Genomics:</b> N/A</li>
   <li><b>Center for Research Computing & Terminal Basics:</b> N/A (CRC accounts will be created for registrants; we will learn how to use CRC tools together with no advance setup or installation required.)</li>
-  <li><b>R/R Studio Overview:</b> <a href="https://datacarpentry.org/r-socialsci/setup.html">https://datacarpentry.org/r-socialsci/setup.html</a>
+  <li><b>R/R Studio Overview:</b> <a href="https://datacarpentry.org/r-socialsci/setup.html" target="_blank">https://datacarpentry.org/r-socialsci/setup.html</a> <i>(opens in a new tab)</i>
 </li>
   <li><b>Data Wrangling for Genomics:</b> N/A (We will be downloading files/installing relevant items together as part of the sessions.)</li>
 </ul>
