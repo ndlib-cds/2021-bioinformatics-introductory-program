@@ -415,6 +415,16 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+<ul>
+  <li><b>Library Resources:</b> N/A</li>
+  <li><b>Metadata of Genomics:</b> N/A</li>
+  <li><b>Center for Research Computing & Terminal Basics:</b> N/A (CRC accounts will be created for registrants; we will learn how to use CRC tools together with no advance setup or installation required.)</li>
+  <li><b>R/R Studio:</b> https://datacarpentry.org/r-socialsci/setup.html 
+</li>
+  <li><b>Data Wrangling:</b> N/A (We will be downloading files/installing relevant items together as part of the sessions.)</li>
+</ul>
+<p>
+</p>
 
 {% comment %}
 For online workshops, the section below provides:
